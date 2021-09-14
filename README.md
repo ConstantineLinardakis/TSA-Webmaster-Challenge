@@ -1,6 +1,7 @@
 ___
 
-# CELEB LIVE
+# ![CELEBLIVE](https://raw.githubusercontent.com/ConstantineLinardakis/TSA-Webmaster-Challenge/main/src/assets/Celeb%20Live.png)
+
 ## This is the 2021 TSA | Team Purple | Web Master Challenge
 ### [Website Inspiration](https://fanxsaltlake.com/hotel-travel/#hotel)
 
