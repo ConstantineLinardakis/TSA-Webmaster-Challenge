@@ -16,6 +16,6 @@ ___
 ___
 
 ### Class Diagram Idea's
-<img src="">
+<img src="https://raw.githubusercontent.com/ConstantineLinardakis/TSA-Webmaster-Challenge/main/doc/Website%20Diagrams.png">
 
 ___
