@@ -1,7 +1,8 @@
 ___
 
-# This is the 2021 TSA | Team Purple | Web Master Challenge
-## [Website Inspiration](https://fanxsaltlake.com/hotel-travel/#hotel)
+# CELEB X
+## This is the 2021 TSA | Team Purple | Web Master Challenge
+### [Website Inspiration](https://fanxsaltlake.com/hotel-travel/#hotel)
 
 <dl>
   <dt>HTML & CSS & JS </dt>
