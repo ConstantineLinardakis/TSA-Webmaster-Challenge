@@ -13,3 +13,56 @@
 
 /* XX-Large devices (larger desktops, 1400px and up) 
 @media (min-width: 1400px) { ... } */
+
+.search{
+    height:50px;
+    width:50px;
+    border-radius:100px;
+    border:4px solid #E8F6F3;
+    background-color: transparent;
+    outline: none;
+    padding-left: 40px;
+    box-sizing: border-box;
+    font-size:30px;
+    color:transparent;
+    font-family: 'Montserrat', sans-serif;
+    transition: 0.5s;
+}
+
+::placeholder{
+    opacity: 0;
+    color: rgba(255,255,255,0.5);
+}
+
+.search:focus::placeholder{
+    opacity:1;
+}
+
+.search:focus{
+    width:400px;
+    color:#ffffff;
+}
+
+.searchbox{
+    position:relative;
+}
+
+.searchbox:before{
+    position: absolute;
+    content:'';
+    background-color: #E8F6F3;
+    height:38px;
+    width:4px;
+    transform: rotate(-50deg);
+    bottom:-27px;
+    right:0;
+}
+
+.search::-webkit-search-cancel-button{
+    left:50px;
+    position:relative;
+}
+
+.search:focus::-webkit-search-cancel-button{
+    left:-20px;
+}
