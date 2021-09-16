@@ -14,7 +14,7 @@ ___
 ## Documentation
 
 09.14.21 - Created Repo & Files
-09.16.21 - Creating HTML Home Page
+09.16.21 - Created HTML, CSS Files
 
 ___
 
