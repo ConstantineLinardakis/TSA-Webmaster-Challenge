@@ -15,10 +15,12 @@ ___
 
 09.14.21 - Created Repo & Files
 09.16.21 - Created HTML, CSS Files
+09.17.21 - Created Story Board / Diagrams
 
 ___
 
 ### Class Diagram Idea's
 <img src="https://raw.githubusercontent.com/ConstantineLinardakis/TSA-Webmaster-Challenge/main/doc/Website%20Diagrams.png">
+<img src="https://raw.githubusercontent.com/ConstantineLinardakis/TSA-Webmaster-Challenge/main/doc/CelebLive.png">
 
 ___
