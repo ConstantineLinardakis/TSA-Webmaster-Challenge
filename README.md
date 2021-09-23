@@ -19,7 +19,7 @@ ___
 
 ___
 
-### Class Diagram Idea's
+### Class Diagram Idea's / Storyboards
 <img src="https://raw.githubusercontent.com/ConstantineLinardakis/TSA-Webmaster-Challenge/main/doc/Website%20Diagrams.png">
 <img src="https://raw.githubusercontent.com/ConstantineLinardakis/TSA-Webmaster-Challenge/main/doc/CelebLive.png">
 
