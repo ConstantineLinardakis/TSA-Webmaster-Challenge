@@ -66,3 +66,13 @@
 .search:focus::-webkit-search-cancel-button{
     left:-20px;
 }
+
+.dropdown-toggle{
+    padding-top:40px;
+    font-size:20px;
+}
+
+.login{
+    padding-top:40px;
+    font-size:20px;
+}

@@ -14,8 +14,12 @@ ___
 ## Documentation
 
 09.14.21 - Created Repo & Files
+
 09.16.21 - Created HTML, CSS Files
+
 09.17.21 - Created Story Board / Diagrams
+
+11.05.21 - Working On CSS / NavBar
 
 ___
 
