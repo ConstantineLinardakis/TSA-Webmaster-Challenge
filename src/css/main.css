@@ -1,6 +1,18 @@
+/* MAIN BODY */
 
+body  {
+    overflow-y: scroll;
+    overflow-x: hidden;
+    position: relative;
+    min-height: 100%;
+    align-items: center;
+    padding:0;
+    margin:0;
+    justify-content: center;
+}
 
 /* SEARCH BUTTON */
+
 .search{
     height:30px;
     width:30px;
@@ -56,12 +68,23 @@
 
 /* NAV BAR FONTS/TEXT/ETC */
 
+.dropdown-toggle::after {
+    display: none;
+}
+
 .dropdown-toggle{
     padding-top:40px;
     font-size:20px;
     color: azure; 
     font-family: 'Verdana',Helvetica,Arial,Lucida,sans-serif; 
     font-variant: small-caps;
+}
+
+.dropdown-item{
+    padding-top:10px;
+    font-family: 'Verdana',Helvetica,Arial,Lucida,sans-serif; 
+    font-variant: small-caps;
+    color:black;
 }
 
 .login{
@@ -78,4 +101,27 @@ nav{
 
 .navbar .navbar-nav > li > a:hover, .navbar .navbar-nav > li > a:focus {
     color: #FFAD00;
+}
+
+/* SCROLL BAR  */
+
+::-webkit-scrollbar {
+    background-color: black;
+    color: #ffffff;
+}
+::-webkit-scrollbar-thumb {
+    background:linear-gradient(
+        45deg,
+        #FFAD00,
+        #ff9100
+    );
+}
+::-webkit-scrollbar-thumb:hover {
+    background-color: #383b3e;
+}
+::-webkit-scrollbar-thumb:active {
+    background-color: #ffae00;
+}
+::-webkit-scrollbar-corner {
+    background-color: #181a1b;
 }

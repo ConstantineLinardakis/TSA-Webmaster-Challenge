@@ -19,7 +19,7 @@ ___
 
 09.17.21 - Created Story Board / Diagrams
 
-11.05.21 - Working On CSS / NavBar
+11.05.21 - Working On CSS / NavBar / Ideas / Design
 
 ___
 
