@@ -23,6 +23,8 @@ ___
 
 11.11.21 - Little Work On NavBar
 
+11.15.21 - Work On Footer / Content Fluid (Home Page)
+
 ___
 
 ### Class Diagram Idea's / Storyboards

@@ -1,7 +1,7 @@
 /* MAIN BODY */
 
 body  {
-    overflow-y: hidden; /* CHANGE */
+    overflow-y: scroll; /* CHANGE */
     overflow-x: hidden;
     position: relative;
     min-height: 100%;
@@ -9,6 +9,13 @@ body  {
     padding:0;
     margin:0;
     justify-content: center;
+}
+
+
+/* CONTAINER FLUID */
+
+.container-fluid{
+    height:1000px;
 }
 
 /* NAV BAR FONTS/TEXT/ETC */
