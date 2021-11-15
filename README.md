@@ -23,7 +23,7 @@ ___
 
 11.11.21 - Little Work On NavBar
 
-11.15.21 - Work On Footer / Content Fluid (Home Page)
+11.15.21 - Work On Footer / Content/Container Fluid (Home Page)
 
 ___
 
