@@ -21,6 +21,8 @@ ___
 
 11.05.21 - Working On CSS / NavBar / Ideas / Design
 
+11.11.21 - Little Work On NavBar
+
 ___
 
 ### Class Diagram Idea's / Storyboards
