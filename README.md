@@ -25,6 +25,8 @@ ___
 
 11.15.21 - Work On Footer / Content/Container Fluid (Home Page)
 
+11.18.21 - Login / Sign Up Page
+
 ___
 
 ### Class Diagram Idea's / Storyboards

@@ -19,6 +19,7 @@
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-2/css/all.min.css" integrity="sha256-46r060N2LrChLLb5zowXQ72/iKKNiw/lAmygmHExk/o=" crossorigin="anonymous"/>
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">
         <link rel="stylesheet" href="src/css/main.css">
+        <link rel="stylesheet" href="src/css/login.css">
 
     </head>
     <!-- Website BODY -->
@@ -82,13 +83,30 @@
 
         <div class="container-fluid">
             <div class="container">
-
+                <div class="center">
+                    <h1>Login</h1>
+                    <form method = "post">
+                        <div class="txt_field">
+                            <input type="text" required>
+                            <label>Username</label>
+                        </div>
+                        <div class="txt_field">
+                            <input type="password" required>
+                            <label>Password</label>
+                        </div>
+                        <div class="pass"> Forgot Password?</div>
+                        <input type="submit" value="Login">
+                        <div class="signup_link">
+                            Not a member of Celeb Live? <a href="signup.html">Signup</a>
+                        </div>
+                    </form>
+                </div>
             </div>
         </div>
 
         <!-- Website FOOTER -->
 
-        <footer class="page-footer">   <!-- fixed bottom here if needed and AOS -->
+        <footer class="page-footer fixed-bottom">   <!-- fixed bottom here if needed and AOS -->
             <div class="text-center">
                 <div class="footer-copyright">
                     © 2021 Copyright:
