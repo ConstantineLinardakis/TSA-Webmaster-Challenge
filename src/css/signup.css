@@ -1,0 +1,23 @@
+body{
+    overflow-y: scroll;
+}
+
+.container-fluid{
+    height: 800px;
+}
+
+@media(max-width:575px){
+    .container-fluid{
+        height:850px;
+    }
+
+    .center{
+        position:absolute;
+        top: 60%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        width: 400px;
+        background: white;
+        border-radius: 10px;
+    }
+}

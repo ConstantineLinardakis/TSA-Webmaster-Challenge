@@ -27,6 +27,9 @@ ___
 
 11.18.21 - Login / Sign Up Page
 
+11.23.21 - NavBar Drop Down Fix / Login & Sign Up Page Finished
+
+
 ___
 
 ### Class Diagram Idea's / Storyboards

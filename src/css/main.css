@@ -52,6 +52,12 @@ body  {
     color:black;
 }
 
+.dropdown-menu {
+    max-height: 100px;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
 .login{
     padding-top:40px;
     font-size:20px;

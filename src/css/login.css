@@ -128,3 +128,30 @@ input[type="submit"]:hover{
 .signup_link a:hover{
     text-decoration: underline;
 }
+
+@media(max-height: 700px) { 
+    body{
+        overflow-y: scroll;
+    }
+}
+
+@media(max-width:575px){
+
+    body{
+        overflow-y: scroll;
+    }
+
+    .container-fluid{
+        height:680px;
+    }
+
+    .center{
+        position:absolute;
+        top: 65%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        width: 400px;
+        background: white;
+        border-radius: 10px;
+    }
+}
