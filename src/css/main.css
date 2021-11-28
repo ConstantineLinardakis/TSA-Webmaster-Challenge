@@ -31,6 +31,18 @@ body  {
     height:1500px;
 }
 
+.container{
+    width:100%;
+}
+
+/* IMG CONTAINER */
+
+.image-content{
+    background-color: black;
+}
+
+
+
 /* NAV BAR FONTS/TEXT/ETC */
 
 .dropdown-toggle::after {
