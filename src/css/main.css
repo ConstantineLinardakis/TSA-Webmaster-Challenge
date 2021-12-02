@@ -72,6 +72,22 @@ body  {
     font-variant: small-caps;
 }
 
+.events{
+    padding-top:40px;
+    font-size:20px;
+    color: azure; 
+    font-family: 'Verdana',Helvetica,Arial,Lucida,sans-serif; 
+    font-variant: small-caps;
+}
+
+.about{
+    padding-top:40px;
+    font-size:20px;
+    color: azure; 
+    font-family: 'Verdana',Helvetica,Arial,Lucida,sans-serif; 
+    font-variant: small-caps;
+}
+
 nav{
     background-color: black;
 }
