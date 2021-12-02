@@ -29,6 +29,8 @@ ___
 
 11.23.21 - NavBar Drop Down Fix / Login & Sign Up Page Finished
 
+12.2.21 - Working On Celebrities Pages
+
 
 ___
 
