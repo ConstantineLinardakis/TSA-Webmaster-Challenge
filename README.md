@@ -39,3 +39,5 @@ ___
 <img src="https://raw.githubusercontent.com/ConstantineLinardakis/TSA-Webmaster-Challenge/main/doc/CelebLive.png">
 
 ___
+
+NOTE : FIX ALL HREFS FOR ALL PAGES WHEN WEBSITE FINISHED
