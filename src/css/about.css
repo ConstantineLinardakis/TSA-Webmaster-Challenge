@@ -1,0 +1,23 @@
+#contact{
+    background-color: rgb(56, 52, 52);
+    height:fit-content;
+}
+#contact,h2{
+    color:white;
+}
+.form-group{
+    padding-top:5px;
+    padding-bottom:10px;
+}
+.col-sm-12{
+    padding-bottom:60px;
+}
+
+h2{
+    font-family: 'Verdana',Helvetica,Arial,Lucida,sans-serif; 
+}
+
+p{
+    font-family: 'Verdana',Helvetica,Arial,Lucida,sans-serif; 
+    font-variant: small-caps;
+}
