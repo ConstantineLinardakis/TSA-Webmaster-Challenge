@@ -31,6 +31,8 @@ ___
 
 12.2.21 - Finished Celeb Pages / Created About Page / Created Event Page
 
+12.7.21 - Finished Event Page / Added AOS Animations (Fade In's)
+
 
 ___
 
@@ -40,4 +42,3 @@ ___
 
 ___
 
-NOTE : FIX ALL HREFS FOR ALL PAGES WHEN WEBSITE FINISHED
