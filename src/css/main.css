@@ -28,20 +28,8 @@ body  {
 /* CONTAINER FLUID */
 
 .container-fluid{
-    height:1500px;
+    height:1000px;
 }
-
-.container{
-    width:100%;
-}
-
-/* IMG CONTAINER */
-
-.image-content{
-    background-color: black;
-}
-
-
 
 /* NAV BAR FONTS/TEXT/ETC */
 
