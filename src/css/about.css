@@ -1,3 +1,5 @@
+/* CONTACT BOX */
+
 #contact{
     background-color: rgb(56, 52, 52);
     height:fit-content;
@@ -5,6 +7,9 @@
 #contact,h2{
     color:white;
 }
+
+/* CONTACT FORM BOXES */
+
 .form-group{
     padding-top:5px;
     padding-bottom:10px;
@@ -13,11 +18,57 @@
     padding-bottom:60px;
 }
 
-h2{
+/* CONTACT TEXT */
+
+#contact h2{
     font-family: 'Verdana',Helvetica,Arial,Lucida,sans-serif; 
+    color:#ff9100;
+    font-weight: 600;
 }
 
-p{
+.col-sm-5 p{
     font-family: 'Verdana',Helvetica,Arial,Lucida,sans-serif; 
     font-variant: small-caps;
+}
+
+/* CONTACT BUTTON */
+
+.btn-black-outline {
+    background: none;
+    border-color: #000000;
+    color: #000000;
+}
+
+.btn-black-outline:hover{
+    background: #000000;
+    color:white;
+    transition: 0.5s;
+}
+
+.display-4 {
+    font-size: 1rem;
+}
+
+/* WORLD,COMMUNITY,SMILE CONTAINER ROW BOX */
+
+.row i{
+    font-size: 9rem;
+}
+.row h2{
+    color:black;
+}
+
+/* CONTAINER FLUID */
+.container-fluid{
+    height:fit-content;
+}
+
+.display-2{
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 3rem;
+}
+
+.display-5 {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 1.5rem;
 }

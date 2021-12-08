@@ -69,12 +69,48 @@
             </div>
         </nav>
 
-        <!-- Website CONTAINER-FLUID (CONTENT) -->
-        <div class="container-fluid">
+        <!-- Website Container Fluid (About Us Section) -->
 
+        <div class="container-fluid">
+            <div class="container">
+                <div class="row text-center">
+                    <h1 class="display-2">MEET OUR TEAM</h1>
+                    <p class="display-5">
+                        We are all very different. We were born in different cities, 
+                        at different times, we love different music, food, movies. 
+                        But we have something that unites us all. It is our company. 
+                        We are its heart. We are not just a team, we are a family.
+                    </p>
+                    <h1>ABOUT THE PROGRAM</h1>
+                    <p class="contact-button">
+                        <a class="btn btn-md btn-black-outline display-4" href="#contact" role="button">Contact Us</a>
+                    </p>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row text-center">
+                    <div class="col-md-4">
+                        <i class="fas fa-users"></i>
+                        <h2>Community</h2>
+                        <p>Meet new people!</p>
+                    </div>
+                    <div class="col-md-4">
+                        <i class="fas fa-globe-americas"></i>
+                        <h2>Worldwide</h2>
+                        <p>We are worldwide.</p>
+                    </div>
+                    <div class="col-md-4">
+                        <i class="far fa-smile-beam"></i>
+                        <h2>Oppurtunities</h2>
+                        <p>Full of fun and excitement.</p>
+                    </div>
+                </div> 
+            </div>
         </div>
-        <!-- Container (Contact Section) -->
-        <div id="contact" class="container-fluid">
+
+        <!-- Website Container (Contact Section) -->
+
+        <div id="contact" class="container-fluid" data-aos="fade-up">
             <h2 class="text-center">CONTACT</h2>
             <div class="row">
                 <div class="col-sm-5">
@@ -120,7 +156,9 @@
         <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
 
         <script>
-            AOS.init();
+            AOS.init({
+                once:true,
+            });
        </script>
 
     </body>
