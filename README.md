@@ -1,15 +1,14 @@
-___
-
+---
 # ![CELEBLIVE](https://raw.githubusercontent.com/ConstantineLinardakis/TSA-Webmaster-Challenge/main/src/assets/CelebLive.png)
 
 ## This is the 2021 TSA | Team Purple | Web Master Challenge
+
 ### [Website Inspiration](https://fanxsaltlake.com/hotel-travel/#hotel)
 
 <dl>
-  <dt>HTML & CSS & JS </dt>
+<dt>HTML & CSS & JS </dt>
 </dl>
-
-___
+---
 
 ## Documentation
 
@@ -33,12 +32,13 @@ ___
 
 12.7.21 - Finished Event Page / Added AOS Animations (Fade In's)
 
+12.9.21 - Finishing About Page
 
-___
+---
 
 ### Class Diagram Idea's / Storyboards
+
 <img src="https://raw.githubusercontent.com/ConstantineLinardakis/TSA-Webmaster-Challenge/main/doc/Website%20Diagrams.png">
 <img src="https://raw.githubusercontent.com/ConstantineLinardakis/TSA-Webmaster-Challenge/main/doc/CelebLive.png">
 
-___
-
+---

@@ -24,7 +24,6 @@
 
     </head>
     <!-- Website BODY -->
-    <body>
 
         <!-- Website Navbar -->
 
@@ -70,41 +69,86 @@
         </nav>
 
         <!-- Website Container Fluid (About Us Section) -->
-
-        <div class="container-fluid">
-            <div class="container">
-                <div class="row text-center">
-                    <h1 class="display-2">MEET OUR TEAM</h1>
-                    <p class="display-5">
-                        We are all very different. We were born in different cities, 
-                        at different times, we love different music, food, movies. 
-                        But we have something that unites us all. It is our company. 
-                        We are its heart. We are not just a team, we are a family.
-                    </p>
-                    <h1>ABOUT THE PROGRAM</h1>
-                    <p class="contact-button">
-                        <a class="btn btn-md btn-black-outline display-4" href="#contact" role="button">Contact Us</a>
-                    </p>
+        <div class="container-fluid gradient">
+            <div class="container-fluid box" data-aos="zoom-in">
+                <div class="container">
+                    <div class="row text-center">
+                        <h1 class="display-2">ABOUT US</h1>
+                        <hr>
+                        <p class="display-5">
+                            Celeb Live annual evens and are now one of the most attended online virtual events in the world.
+                            Also one of the largest live celebrity online virtual meet. Celeb Live was founded by Constantine
+                            Linardakis and Brendan. Every week the Celeb Live founders find celebrities that would like to join
+                            the virtual get together. 
+                        </p>
+                    </div>
                 </div>
             </div>
-            <div class="container">
-                <div class="row text-center">
-                    <div class="col-md-4">
-                        <i class="fas fa-users"></i>
-                        <h2>Community</h2>
-                        <p>Meet new people!</p>
+            <div class="container-fluid box" data-aos="fade-up">
+                <div class="container">
+                    <div class="row text-center">
+
+                        <h1 class="MEET">MEET THE TEAM</h1>
+
+                        <hr>
+
+                        <div class="col-lg-6">
+                            <div class="card" data-aos="zoom-in-right">
+                                <div class="card-body text-center"> <img src="src/assets/YoutubeCelebs/twinplayz.png" class="rounded-circle" width="200" height="200">
+                                    <h5 class="card-title mt-2 mb-1">Constantine Linardakis</h5> 
+                                    <span class="card-desc fs-2 mb-3 font-weight-bold">Founder & Developer</span>
+                                    <p class="mb-3 mt-3">"The Founder of Celeb Live and Web Developer"</p>
+                                    <ul class="list-inline">
+                                        <li class="list-inline-item"><a href="https://github.com/ConstantineLinardakis" style="text-decoration: none;color: inherit;"><i class="fab fa-github fa-2x github"></i></a></li>
+                                        <li class="list-inline-item"><a href="https://twitter.com/TwinPlayz_YT" style="text-decoration: none;color: inherit;"><i class="fab fa-twitter fa-2x twitter"></i></a></li>
+                                        <li class="list-inline-item"><a href="https://www.linkedin.com/in/constantine-linardakis-4217771bb/" style="text-decoration: none;color: inherit;"><i class="fab fa-linkedin fa-2x linkedin"></i></a></li>
+                                        <li class="list-inline-item"><a href="https://www.youtube.com/c/TwinPlayz_YT" style="text-decoration: none;color: inherit;"><i class="fab fa-youtube fa-2x youtube"></i></a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-6">
+                            <div class="card" data-aos="zoom-in-left">
+                                <div class="card-body text-center"> <img src="src/assets/noimage.png" class="rounded-circle" width="200" height="200">
+                                    <h5 class="card-title mt-2 mb-1">Brenden</h5> 
+                                    <span class="card-desc fs-2 mb-3 font-weight-bold">Co-Founder</span>
+                                    <p class="mb-3 mt-3">"The Co-Founder of Celeb Live"</p>
+                                    <ul class="list-inline">
+                                        <li class="list-inline-item"><a href="https://github.com/ConstantineLinardakis" style="text-decoration: none;color: inherit;"><i class="fab fa-github fa-2x github"></i></a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+
+                        <p class="contact-button">
+                            <a class="btn btn-md btn-black-outline display-4" href="#contact" role="button">Contact Us</a>
+                        </p>
                     </div>
-                    <div class="col-md-4">
-                        <i class="fas fa-globe-americas"></i>
-                        <h2>Worldwide</h2>
-                        <p>We are worldwide.</p>
-                    </div>
-                    <div class="col-md-4">
-                        <i class="far fa-smile-beam"></i>
-                        <h2>Oppurtunities</h2>
-                        <p>Full of fun and excitement.</p>
-                    </div>
-                </div> 
+                </div>
+            </div>
+            <div class="container-fluid orange box">
+                <div class="container" data-aos="fade-up">
+                    <div class="row text-center">
+                        <div class="col-md-4">
+                            <i class="fas fa-users"></i>
+                            <h2>Community</h2>
+                            <p>With Celeb Live, you can make friends from nearby or from around the world!</p>
+                        </div>
+                        <div class="col-md-4">
+                            <i class="fas fa-globe-americas"></i>
+                            <h2>Worldwide</h2>
+                            <p>We are a worldwide company.</p>
+                        </div>
+                        <div class="col-md-4">
+                            <i class="far fa-smile-beam"></i>
+                            <h2>Oppurtunities</h2>
+                            <p>Full of fun and excitement. Meet celebrities, and new people. Hear from others on
+                            how they reached their success!
+                            </p>
+                        </div>
+                    </div> 
+                </div>
             </div>
         </div>
 
@@ -156,9 +200,7 @@
         <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
 
         <script>
-            AOS.init({
-                once:true,
-            });
+            AOS.init();
        </script>
 
     </body>
