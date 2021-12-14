@@ -1,3 +1,117 @@
 .img-fluid {
   width: 100%;
 }
+.container-fluid {
+  height: fit-content;
+}
+.gradient {
+  height: fit-content;
+  background-image: linear-gradient(145deg, #ffad33 0%, #72259e 100%);
+}
+
+/* WORLD, COMMUNITY, SMILE CONTAINER ROW BOX */
+
+.orange h2 {
+  padding: 5px;
+  text-decoration: underline;
+  color: white;
+}
+
+.orange i {
+  font-size: 9rem;
+  color: white;
+}
+
+.orange p {
+  color: white;
+}
+
+/* PADDING */
+
+.box {
+  padding-top: 300px;
+}
+
+.orange {
+  padding-bottom: 500px;
+}
+
+/* HOVER ANIMATIONS */
+
+.orange i:hover {
+  color: orange;
+}
+
+.col-md-4:hover {
+  transition: 1s;
+  font-size: 1.5rem;
+}
+
+/* BLACK CONTAINER */
+
+.black {
+  background-color: black;
+}
+
+.blackbox {
+  align-items: center;
+  height: fit-content;
+}
+
+/* BLACK CONTAINER TEXT COLORS */
+
+@keyframes dsm-animated-gradient-flow {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+.blackbox h1 {
+  padding-bottom: 10px;
+  font-size: 3rem;
+  font-weight: 700;
+  font-family: "Radwave", Helvetica, Arial, Lucida, sans-serif;
+  background: linear-gradient(-45deg, #ffad33, #b75085, #ff6633, #b75085);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-size: 300%;
+  animation: dsm-animated-gradient-flow 8s ease-in-out infinite;
+  -webkit-animation: dsm-animated-gradient-flow 8s ease-in-out infinite;
+}
+
+.blackbox h2 {
+  color: #b75085;
+  font-size: 1.5rem;
+  font-family: "Verdana", Helvetica, Arial, Lucida, sans-serif;
+  font-variant: small-caps;
+}
+
+.blackbox p {
+  font-size: 2rem;
+  margin-bottom: 0px;
+  padding-bottom: 0;
+  padding-right: 5px;
+  color: orange;
+  font-weight: 700;
+  font-family: "Radwave", Helvetica, Arial, Lucida, sans-serif;
+}
+
+.blackbox #white {
+  height: 10px;
+  color: white;
+  font-weight: 400;
+  font-size: 0.8rem;
+  font-family: "Radwave", Helvetica, Arial, Lucida, sans-serif;
+  margin-bottom: 20px;
+}
+
+.blackbox .sep-section {
+  padding: 10px;
+  margin: auto;
+}

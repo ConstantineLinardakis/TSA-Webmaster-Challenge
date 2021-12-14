@@ -34,6 +34,8 @@
 
 12.9.21 - Finishing About Page
 
+12.14.21 - Finishing Home Page
+
 ---
 
 ### Class Diagram Idea's / Storyboards
