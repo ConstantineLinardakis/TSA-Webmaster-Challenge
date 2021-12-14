@@ -38,6 +38,14 @@
 
 ---
 
+### Theme: Website for a cultural events venue
+
+#### Context: Traditionally, cultural events are held in-person. Websites for in-person venues include event information and ticket sales. Due to the global pandemic, venues have had to find new ways to meet their audiences’ needs.
+
+#### Challenge: Develop a website for a cultural events venue that could be virtual only. Strive to develop a website that is interactive, engaging, graphically interesting, and easy to understand and navigate. Advertise the venue to potential customers who want to experience a cultural event through a virtual experience.
+
+---
+
 ### Class Diagram Idea's / Storyboards
 
 <img src="https://raw.githubusercontent.com/ConstantineLinardakis/TSA-Webmaster-Challenge/main/doc/Website%20Diagrams.png">
