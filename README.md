@@ -38,7 +38,7 @@
 
 ---
 
-### Theme: [!Website for a cultural events venue](https://tsaweb.org/competitions-programs/tsa/themes-problems)
+### Theme: [Website for a cultural events venue](https://tsaweb.org/competitions-programs/tsa/themes-problems)
 
 #### Context: Traditionally, cultural events are held in-person. Websites for in-person venues include event information and ticket sales. Due to the global pandemic, venues have had to find new ways to meet their audiences’ needs.
 
