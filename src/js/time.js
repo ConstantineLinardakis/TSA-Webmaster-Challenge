@@ -1,6 +1,6 @@
 // END DATE FOR THE TIMER
 
-var countDownDate = new Date("Jan 12, 2022 12:34:52").getTime();
+var countDownDate = new Date("Dec 12, 2022 12:34:52").getTime();
 
 // MAKES TIMER FUNCTION UPDATE EVERY SECOND
 
